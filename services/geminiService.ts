@@ -1,6 +1,6 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: 'AIzaSyBY4lBN8IKmLqgRgyH23lAcUKWEhD8c_Mc' });
+const ai = new GoogleGenAI({ apiKey: 'AIzaSyCw4hpREfJlf67efr4UzVqGJ2zUtiydP8I' });
 
 // Helper to strip data:image/jpeg;base64, prefix
 const getBase64 = (dataUrl: string): string => {
