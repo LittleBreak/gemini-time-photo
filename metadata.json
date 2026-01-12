@@ -1,0 +1,7 @@
+{
+  "name": "ChronoSnap Time Machine",
+  "description": "A time-travel photo booth that transports you to historical eras using Generative AI. Also features advanced image editing and analysis tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
